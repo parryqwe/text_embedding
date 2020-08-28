@@ -6,7 +6,8 @@
 
 ## Word2vec
 ### 資料處理
-1. 文字種類取出最常出現的50000個(使用collections.Counter().most_common())，其他標示為unk
+1. 文字種類取出最常出現的50000個，其他標示為unk
 2. 文字轉換為id
+
 
 
